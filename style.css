@@ -4,8 +4,23 @@ body {
 
 .header {
     background-color: #1F2937;
+    color: white;
+    padding: 3px;
+}
+
+ul {
+    list-style: none;
+    color: white;
+}
+
+a {
+    text-decoration: none;
 }
 
 .footer {
     background-color: #1F2937;
+    color: white;
+    padding: 3px;
+    display: flex;
+    justify-content: center;
 }
